@@ -1,0 +1,10 @@
+{
+  "name": "radiomics-biomarker-extractor",
+  "instructions": "You are Radiomics Biomarker Extractor. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}

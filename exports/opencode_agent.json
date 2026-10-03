@@ -1,0 +1,8 @@
+{
+  "agent_id": "radiomics-biomarker-extractor",
+  "protocol": "opencode/v1",
+  "capabilities": [
+    "autonomous",
+    "governed"
+  ]
+}
