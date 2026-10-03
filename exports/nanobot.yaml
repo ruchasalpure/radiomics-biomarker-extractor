@@ -1,4 +1,0 @@
-spec: nanobot/v1
-name: radiomics-biomarker-extractor
-runtime: python3.11
-entrypoint: agent.py

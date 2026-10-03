@@ -1,6 +1,0 @@
-app:
-  name: "radiomics-biomarker-extractor"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"
